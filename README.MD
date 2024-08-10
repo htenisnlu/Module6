@@ -1,6 +1,6 @@
-# Python Programs for Module 4: Lab Activity
+# Python Programs for Module 6: Lab Activity
 
-This repository contains Python programs developed as part of Module 4: Lab Activity. Each program is designed to solve specific problems and demonstrate the use of various Python features and modules. Below are the details of each program, including their purpose, implementation, and example outputs.
+This repository contains Python programs developed as part of Module 6: Lab Activity. Each program is designed to solve specific problems and demonstrate the use of various Python features and modules. Below are the details of each program, including their purpose, implementation, and example outputs.
 
 ---
 
